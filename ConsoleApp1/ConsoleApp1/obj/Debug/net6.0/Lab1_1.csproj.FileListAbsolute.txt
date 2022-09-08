@@ -1,0 +1,15 @@
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Lab1_1.exe
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Lab1_1.deps.json
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Lab1_1.runtimeconfig.json
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Lab1_1.dll
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Lab1_1.pdb
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Lab1_1.csproj.AssemblyReference.cache
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Lab1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Lab1_1.AssemblyInfoInputs.cache
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Lab1_1.AssemblyInfo.cs
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Lab1_1.csproj.CoreCompileInputs.cache
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Lab1_1.dll
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Lab1_1.dll
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Lab1_1.pdb
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Lab1_1.genruntimeconfig.cache
+C:\Users\Lilly\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Lab1_1.dll
